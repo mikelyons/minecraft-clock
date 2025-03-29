@@ -4,8 +4,8 @@
 [X] organize the images
 [ ] Create the layout
 [ ] implement ghpages deployment
-[ ]
-[ ]
+[ ] Make clock animation frames
+[ ] Align the clock time with the current time / sunrise-sunset
 [ ]
 [ ]
 [ ]

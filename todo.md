@@ -9,7 +9,7 @@
 [ ] Dark and light mode
 [ ]
 [ ] never give up
-[ ]
+[ ] always keep trying
 [ ]
 [ ]
 [ ]

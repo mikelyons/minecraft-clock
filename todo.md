@@ -10,6 +10,6 @@
 [ ]
 [ ] never give up
 [ ] always keep trying
-[ ]
+[ ] know yourself
 [ ]
 [ ]

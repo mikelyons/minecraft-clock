@@ -11,5 +11,5 @@
 [ ] never give up
 [ ] always keep trying
 [ ] know yourself
-[ ]
+[ ] find a way to make it happen
 [ ]

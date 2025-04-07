@@ -13,3 +13,6 @@
 [ ] know yourself
 [ ] find a way to make it happen
 [ ] stop this charade
+[ ]
+[ ] Add time experience saving with cookies and then persist that on a backend
+[ ] user authentication

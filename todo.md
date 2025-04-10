@@ -7,6 +7,7 @@
 [ ] Make clock animation frames
 [ ] Align the clock time with the current time / sunrise-sunset
 [ ] Dark and light mode
+[ } high contrast mode
 [ ]
 [ ] never give up
 [ ] always keep trying

@@ -9,6 +9,7 @@
 [ ] Dark and light mode
 [ } high contrast mode
 [ ] colourblind modes
+[ ] uncensored mode
 [ ]
 [ ] never give up
 [ ] always keep trying
